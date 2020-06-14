@@ -11,3 +11,5 @@ This should download and install all the dependencies for the project. As long a
 If everything has worked corrrectly, a graph should pop up and will also be save to [Graph.png](https://github.com/MattFrench019/KindnessGraphing/blob/master/Graph.png)
 
 ![](https://github.com/MattFrench019/KindnessGraphing/blob/0f15bd96a491cb9da62334d1e52e1665839250d8/Graph.png)
+<br><br>
+![](https://github.com/MattFrench019/KindnessGraphing/blob/cba9fb6d8eabddef376430e2e56dd9f3fe8ed6de/Kindness.png)
