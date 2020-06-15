@@ -12,4 +12,4 @@ If everything has worked corrrectly, a graph should pop up and will also be save
 
 ![](https://github.com/MattFrench019/KindnessGraphing/blob/0f15bd96a491cb9da62334d1e52e1665839250d8/Graph.png)
 <br><br>
-![](https://github.com/MattFrench019/KindnessGraphing/Kindness.png)
+![](https://github.com/MattFrench019/KindnessGraphing/blob/master/Kindness.png)
